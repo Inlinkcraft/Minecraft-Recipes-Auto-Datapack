@@ -1,0 +1,1 @@
+# Minecraft-Recipes-Auto-Datapack
